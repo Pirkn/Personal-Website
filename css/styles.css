@@ -1,0 +1,132 @@
+body{
+    margin: 0px;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    color:#40514E;
+}
+
+.cloud1{
+    visibility: hidden;
+    position: absolute;
+    right: 28%;
+    top: 12%;
+
+}
+.cloud2{
+    visibility: hidden;
+    position: absolute;
+    left: 28%;
+    bottom: 40%;
+}
+hr{
+    border-color: #EAF6F6;
+    border-style: dotted;
+    border-width: 15px;
+    width: 4%;
+    border-bottom: none;
+    margin: 100px auto;
+}
+p {
+    line-height: 2;
+}
+h1{
+    color: #66BFBF;
+    font-size: 5.62rem;
+    margin-top: 50px auto 0 auto;
+    font-family: 'Sacramento', cursive;
+    
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+h3{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;   
+}
+a{
+    color:#11999E;
+    font-family: 'Montserrat', sans-serif;
+}
+.berkhan{
+    width: 10%;
+}
+.my-description {
+    width: 30%;
+    margin: auto;
+}
+.skill-row{
+    position: relative;
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    overflow: auto;
+}
+.python-png{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    padding-bottom: 50px;
+}
+.coding-png{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    padding-bottom: 50px;
+}
+
+.top-container{
+    padding-top: 100px;
+    background-color: #E3FDFD;
+    position: relative;
+}
+.middle-container{
+    margin: 100px 0;
+}
+.bottom-container{
+    background-color: #71C9CE;
+    height: 85px;
+    padding: 42px 0 10px 0;
+}
+
+.btn {
+    margin-top: 20px;
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: 'Montserrat', sans-serif;
+    color: #ffffff;
+    font-size: 20px;
+    background: #11999E;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+}
+  
+.btn:hover {
+    background: #0d7478;
+    text-decoration: none;
+}
+
+.footer-link:link { text-decoration: none; }
+
+
+.footer-link:visited { text-decoration: none; }
+
+
+.footer-link:hover { 
+    text-decoration: none;
+    color: #0d7478;
+}
+
+.footer-link:active { text-decoration: none; }
+.cpr{
+    margin-top: 2rem;
+    margin-bottom: 0;
+    color: #EAF6F6;
+    font-size: 0.75rem;
+}
+
+
